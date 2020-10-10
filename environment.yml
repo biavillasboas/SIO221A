@@ -8,7 +8,7 @@ dependencies:
   - holoviews==1.12.3
   - hvplot==0.4.0
   - libnetcdf==4.6.1
-  - matplotlib==3.1.0
+  - matplotlib==3.2.2
   - nc-time-axis==1.2.0
   - netcdf4==1.4.2
   - numpy==1.19.1
