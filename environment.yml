@@ -4,7 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - bokeh==1.2.0
-  - datashader==0.7.0
+  - datashader==0.11.1
   - holoviews==1.12.3
   - hvplot==0.4.0
   - libnetcdf==4.6.1
