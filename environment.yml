@@ -13,5 +13,5 @@ dependencies:
   - netcdf4==1.4.2
   - numpy==1.19.1
   - pandas==0.24.2
-  - xarray==0.12.1
+  - xarray==0.16.1
   - scipy==1.5.2
