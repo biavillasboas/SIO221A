@@ -10,11 +10,13 @@ If you plan to do your assigments in Python and/or keep a local copy of this rep
 
 **Novice:**
 
-1. Install Anaconda following [these instructions](https://carpentries.github.io/workshop-template/#python) according to your operational system. 
+- Install Anaconda following [these instructions](https://carpentries.github.io/workshop-template/#python) according to your operational system. 
 
 
 **If you are confortable using the terminal and are interested in using Git:**
 
-1. You can either install Anaconda (recommended) as explained above or if you would like to have more control over which packsges are installed, you could alternativelly install Python using [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- You can either install Anaconda (recommended) as explained above or if you would like to have more control over which packages are installed, you could alternativelly install Python using [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-2. Install Git following [these instructions](https://carpentries.github.io/workshop-template/#git) according to your operational system.
+- Install Git following [these instructions](https://carpentries.github.io/workshop-template/#git) according to your operational system.
+
+All the notebooks in this repository were developed and tested for the packages and versions specified in the `environment.yml` file. To make sure that you are able to run the notebooks locally, we recomend that you create a [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) using the `environment.yml`. Instructions for how to do this are available
