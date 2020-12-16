@@ -1,4 +1,4 @@
-## Python version of Sarah Gille's SIO221A notes by: 
+## Python version of [Sarah Gille's SIO221A notes](http://pordlabs.ucsd.edu/sgille/sioc221a/index.html) by: 
 ### Bia Villas Bôas (avillasboas@ucsd.edu) & Gui Castelão (castelao@ucsd.edu) 
 
 
