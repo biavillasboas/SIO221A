@@ -17,3 +17,4 @@ dependencies:
   - scipy==1.5.2
   - jupyterlab==2.2.6
   - ipykernel==5.3.4
+  - cartopy==0.18.0
